@@ -1,2 +1,2 @@
 .env
-sePuedenIgnorarArchivosDeNode.js
+node_modules/  // ejemplo: tambien puede ignorar archivos de node
